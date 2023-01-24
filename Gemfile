@@ -73,3 +73,4 @@ end
 
 gem "simplecov"
 gem "skunk"
+gem "rubycritic"

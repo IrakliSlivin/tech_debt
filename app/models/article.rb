@@ -10,7 +10,7 @@ class Article < ApplicationRecord
       else
         if name == 'test2'
           return ':dsdsdsds'
-        elsif
+        elsif name == 'asdsds11'
           if name == 'asdsds'
             return 'asdsds'
           else
@@ -21,6 +21,7 @@ class Article < ApplicationRecord
     end
 
   end
+
   def bad_code4
     if 2 == 1
       return 'Nope'
@@ -30,16 +31,15 @@ class Article < ApplicationRecord
       else
         if name == 'test2'
           return ':dsdsdsds'
-        elsif
-        if name == 'asdsds'
-          return 'asdsds'
-        else
-          return 'asdsdsds'
-        end
+        elsif name == 'asdsds11'
+          if name == 'asdsds'
+            return 'asdsds'
+          else
+            return 'asdsdsds'
+          end
         end
       end
     end
-
   end
 
   def bad_code3
@@ -51,12 +51,12 @@ class Article < ApplicationRecord
       else
         if name == 'test2'
           return ':dsdsdsds'
-        elsif
-        if name == 'asdsds'
-          return 'asdsds'
-        else
-          return 'asdsdsds'
-        end
+        elsif name == 'asdsds11'
+          if name == 'asdsds'
+            return 'asdsds'
+          else
+            return 'asdsdsds'
+          end
         end
       end
     end
@@ -72,7 +72,7 @@ class Article < ApplicationRecord
       else
         if name == 'test2'
           return ':dsdsdsds'
-        elsif
+        elsif name == 'asdsds11'
         if name == 'asdsds'
           return 'asdsds'
         else
@@ -93,7 +93,7 @@ class Article < ApplicationRecord
       else
         if name == 'test2'
           return ':dsdsdsds'
-        elsif
+        elsif name == 'asdsds11'
         if name == 'asdsds'
           return 'asdsds'
         else
@@ -114,7 +114,7 @@ class Article < ApplicationRecord
       else
         if name == 'test2'
           return ':dsdsdsds'
-        elsif
+        elsif name == 'asdsds11'
         if name == 'asdsds'
           return 'asdsds'
         else
@@ -135,7 +135,7 @@ class Article < ApplicationRecord
       else
         if name == 'test2'
           return ':dsdsdsds'
-        elsif
+        elsif name == 'asdsds11'
         if name == 'asdsds'
           return 'asdsds'
         else
